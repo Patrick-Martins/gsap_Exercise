@@ -1,0 +1,23 @@
+{
+  "name": "gsap_exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "beachball.js",
+  "scripts": {
+    "start": "parcel beachball.html --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patrick-Martins/gsap_Exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Patrick-Martins/gsap_Exercise/issues"
+  },
+  "homepage": "https://github.com/Patrick-Martins/gsap_Exercise#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
